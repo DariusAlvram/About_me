@@ -35,12 +35,7 @@ F ||         '  |||
      L L ||
      | | |F
 VK   | | |F
-
-------------------------------------------------
-Thank you for visiting https://asciiart.website/
-This ASCII pic can be found at
-https://asciiart.website/index.php?art=animals/birds%20(land)
-
+--------------
 <!---
 Dariusgrey/Dariusgrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
