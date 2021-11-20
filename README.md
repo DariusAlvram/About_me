@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dariusgrey
 - 👀 I’m interested in Manga, Anime, Comics, Languages, and Programming
-- 🌱 I’m currently learning python and SQL
+- 🌱 I’m currently learning python, SQL and ABAP
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me mrlorddarius@gmail.com or twitter @DariusHabits.
 <!---
